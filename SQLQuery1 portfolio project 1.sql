@@ -1,4 +1,4 @@
-# Covid 19 Project : SQL
+# SQLCovid 19 Project :
 
 select *
 from [Portfolio project 1]..CovidDeaths$
